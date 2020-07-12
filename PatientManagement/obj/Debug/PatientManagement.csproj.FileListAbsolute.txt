@@ -83,6 +83,7 @@ E:\CAPSTONE\PatientManagement\PatientManagement\bin\Debug\System.Net.Http.Primit
 E:\CAPSTONE\PatientManagement\PatientManagement\bin\Debug\Interop.AcroPDFLib.dll
 E:\CAPSTONE\PatientManagement\PatientManagement\bin\Debug\AxInterop.AcroPDFLib.dll
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csproj.App.config
+E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csprojAssemblyReference.cache
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\Interop.AcroPDFLib.dll
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\AxInterop.AcroPDFLib.dll
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csproj.ResolveComReference.cache
@@ -104,6 +105,7 @@ E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Form
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.DoctorForm.AdmissionReportList.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.DoctorForm.CheckUP.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.DoctorForm.CheckUpList.resources
+E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.DoctorForm.DeceasedReport.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.DoctorForm.InPatientMain.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.DoctorForm.OutPatientMain.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.ExportUser.resources
@@ -114,6 +116,7 @@ E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Form
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.Laboratory.LaboratoryResultList.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.Laboratory.PendingLaboratoryRequest.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.Login.resources
+E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.Medical.DeathCertificate.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.Medical.MedicalRecordSummary.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.Medical.MenuRecords.resources
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.NurseForm.InNurseMain.resources
@@ -143,6 +146,3 @@ E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.cspr
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csproj.CopyComplete
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.exe
 E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.pdb
-E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csprojAssemblyReference.cache
-E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.DoctorForm.DeceasedReport.resources
-E:\CAPSTONE\PatientManagement\PatientManagement\obj\Debug\PatientManagement.Forms.Medical.DeathCertificate.resources
